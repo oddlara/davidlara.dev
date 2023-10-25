@@ -15,7 +15,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to <a href="davidlara.dev">davidlara.dev</a>
         </h1>
-        <h2 className={styles.title}>under construction...</h2>
+        <h2 className={styles.title}>under construction....</h2>
 
       </main>
 
